@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(./bg-pof.png);
+}
+
+header h1{
+    text-align: center;
+    padding: 50px;
+    font-size: 60px;
+}
+
+main p {
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+}
+
+footer p { 
+    text-align: center;
+    padding: 80px;
+}
